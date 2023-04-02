@@ -35,8 +35,8 @@ function SideAddList() {
       </div>
 
 
-      <SideListChild outer='group7326' imageSource={map} textContent="View on Map"/>
-      <SideListChild outer='group7327' imageSource={direction} textContent="Get Directions"/>
+      <SideListChild outer='group7326' imageSource={direction} textContent="View on Map"/>
+      <SideListChild outer='group7327' imageSource={map} textContent="Get Directions"/>
       <SideListChild outer='group7328' imageSource={share} textContent="Share"/>
       <SideListChild outer='group7329' imageSource={note} textContent="My Notes"/>
 
