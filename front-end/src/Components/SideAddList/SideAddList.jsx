@@ -40,7 +40,7 @@ function SideAddList() {
       <SideListChild outer='group7328' imageSource={share} textContent="Share"/>
       <SideListChild outer='group7329' imageSource={note} textContent="My Notes"/>
 
-      <div class="group7437">
+      <div className="group7437">
       <div className='group7339'>
       <div className='group6806'>
       Listing Agent
